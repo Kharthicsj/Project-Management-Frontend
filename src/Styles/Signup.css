@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+  }
+  
+  .image-section {
+    flex: 1.5;
+    background-image: url("../Assets/company_signup.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .form-section {
+    flex: 0.9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-left: 100px;
+  }
+  
+  .form-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .form-section form {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    max-width: 400px;
+  }
+  
+  .form-section label {
+    margin-top: 10px;
+    font-size: 0.9rem;
+    color: #333;
+  }
+  
+  .form-section input {
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .form-section button {
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-section button:hover {
+    background-color: #0056b3;
+  }
+  
+  .form-section p {
+    margin-top: 15px;
+    font-size: 0.9rem;
+  }
+  

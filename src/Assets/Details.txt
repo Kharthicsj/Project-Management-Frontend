@@ -1,0 +1,3 @@
+Username - kharthicsj
+Password - K4usWgjwA5lR4mh7
+Connection String - mongodb+srv://kharthicsj:<db_password>@projectmanagementsystem.tyurl.mongodb.net/?retryWrites=true&w=majority&appName=ProjectManagementSystem
